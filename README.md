@@ -40,8 +40,10 @@ A faithful reproduction of Spotify's home page using HTML and CSS. Features resp
      - Ensured images are properly referenced with the correct file paths.
      - Used appropriate image formats and sizes for web use. Optimize images to reduce load times.
      - Used CSS properties like object-fit to control how images are displayed within their containers.
+  
+# Check Out Website (on Laptop)
 
-
+https://bhavyakhandelwal-spotifyclone.netlify.app/
 
 
 
